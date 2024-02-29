@@ -1,2 +1,2 @@
 # OIBSP
-Internship with oasis info byte
+Internship with Oasis Infobyte
