@@ -1,2 +1,2 @@
 # oibsp
-Internship with Oasis Infobyte
+Internship with Oasis Infobyte on data analytics.
