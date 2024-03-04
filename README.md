@@ -1,2 +1,2 @@
-# oibsp_lvl1proj1
+# oibsp
 Internship with Oasis Infobyte
